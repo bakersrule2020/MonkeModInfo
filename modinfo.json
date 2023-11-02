@@ -1,4 +1,12 @@
 [
+    {
+    "name": "Test Mod",
+    "author": "Lorem Ipsum",
+    "version": "1.3.1",
+    "git_path": "Graicc/BananaHook",
+    "group": "Menus",
+    "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
+  },
   {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
